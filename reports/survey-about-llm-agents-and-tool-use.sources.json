@@ -1,0 +1,186 @@
+[
+  {
+    "n": 1,
+    "id": "toolformer-2023",
+    "url": "https://arxiv.org/abs/2302.04761",
+    "title": "Toolformer: Language Models Can Teach Themselves to Use Tools",
+    "date": "2023-02-09",
+    "source": "arxiv"
+  },
+  {
+    "n": 2,
+    "id": "coa-2024",
+    "url": "https://arxiv.org/abs/2401.17464",
+    "title": "Efficient Tool Use with Chain-of-Abstraction Reasoning",
+    "date": "2024-01-30",
+    "source": "arxiv"
+  },
+  {
+    "n": 3,
+    "id": "uala-2024",
+    "url": "https://arxiv.org/abs/2401.14016",
+    "title": "Towards Uncertainty-Aware Language Agent",
+    "date": "2024-01-25",
+    "source": "arxiv"
+  },
+  {
+    "n": 4,
+    "id": "embodied-cad-2026",
+    "url": "https://arxiv.org/abs/2606.31252",
+    "title": "Embodied CAD: Solver-Grounded LLM Agents for Parametric B-Rep Assembly Modeling",
+    "date": "2026-06-30",
+    "source": "arxiv"
+  },
+  {
+    "n": 5,
+    "id": "langchain-openai-docs",
+    "url": "https://docs.langchain.com/oss/javascript/integrations/tools/openai",
+    "title": "LangChain — OpenAI integration (Docs)",
+    "date": "n.d.",
+    "source": "web"
+  },
+  {
+    "n": 6,
+    "id": "autogpt-github",
+    "url": "https://github.com/Significant-Gravitas/AutoGPT",
+    "title": "AutoGPT — GitHub (Significant-Gravitas)",
+    "date": "2023-03-16",
+    "source": "web"
+  },
+  {
+    "n": 7,
+    "id": "openai-cookbook-langchain-notebook",
+    "url": "https://raw.githubusercontent.com/openai/openai-cookbook/main/examples/How_to_build_a_tool-using_agent_with_Langchain.ipynb",
+    "title": "OpenAI Cookbook: How to build a tool-using agent with LangChain (notebook)",
+    "date": "n.d.",
+    "source": "web"
+  },
+  {
+    "n": 8,
+    "id": "ms-copilot-apis-overview",
+    "url": "https://learn.microsoft.com/en-us/microsoft-365/copilot/extensibility/copilot-apis-overview",
+    "title": "Microsoft 365 Copilot — Copilot APIs Overview",
+    "date": "n.d.",
+    "source": "web"
+  },
+  {
+    "n": 9,
+    "id": "retailbench-2026",
+    "url": "https://arxiv.org/abs/2606.15862",
+    "title": "RetailBench: Benchmarking long horizon reasoning and coherent decision making of LLM agents in realistic retail environments",
+    "date": "2026-06-14",
+    "source": "arxiv"
+  },
+  {
+    "n": 10,
+    "id": "planbench-xl",
+    "url": "https://huggingface.co/papers/2606.22388",
+    "title": "PlanBench-XL: Evaluating Long-Horizon Planning of LLM Tool-Use Agents",
+    "date": "2026-06-21",
+    "source": "hf-search"
+  },
+  {
+    "n": 11,
+    "id": "envfactory",
+    "url": "https://huggingface.co/papers/2605.18703",
+    "title": "EnvFactory: Scaling Tool-Use Agents via Executable Environments Synthesis and Robust RL",
+    "date": "2026-05-18",
+    "source": "hf-search"
+  },
+  {
+    "n": 12,
+    "id": "replay-financial-2026",
+    "url": "https://arxiv.org/abs/2601.15322",
+    "title": "Replayable Financial Agents: A Determinism-Faithfulness Assurance Harness for Tool-Using LLM Agents",
+    "date": "2026-01-17",
+    "source": "arxiv"
+  },
+  {
+    "n": 13,
+    "id": "when-tool-decides-2026",
+    "url": "https://arxiv.org/abs/2606.14476",
+    "title": "When the Tool Decides: LLM Agents Defer Blindly to Graph Neural Network Tools, and Stronger Backbones Defer More",
+    "date": "2026-06-12",
+    "source": "arxiv"
+  },
+  {
+    "n": 14,
+    "id": "when-simulation-lies",
+    "url": "https://huggingface.co/papers/2605.11928",
+    "title": "When Simulation Lies: A Sim-to-Real Benchmark and Domain-Randomized RL Recipe for Tool-Use Agents",
+    "date": "2026-05-12",
+    "source": "hf-search"
+  },
+  {
+    "n": 15,
+    "id": "remory",
+    "url": "https://huggingface.co/papers/2610.11287",
+    "title": "REMORY: Learning Residual Memory for Context Compaction",
+    "date": "2026-10-08",
+    "source": "hf-daily"
+  },
+  {
+    "n": 16,
+    "id": "opera",
+    "url": "https://huggingface.co/papers/2609.33987",
+    "title": "Opera: A Verbal Critic Framework for Long-horizon Coding Agents",
+    "date": "2026-10-08",
+    "source": "hf-daily"
+  },
+  {
+    "n": 17,
+    "id": "openai-webgpt-blog",
+    "url": "https://openai.com/index/webgpt/",
+    "title": "OpenAI — WebGPT research blog",
+    "date": "2021-12-16",
+    "source": "web"
+  },
+  {
+    "n": 18,
+    "id": "webgpt-paper-arxiv",
+    "url": "https://cdn.openai.com/WebGPT.pdf",
+    "title": "WebGPT (paper)",
+    "date": "2021-12",
+    "source": "web"
+  },
+  {
+    "n": 19,
+    "id": "openai-agents-aws-cookbook",
+    "url": "https://developers.openai.com/cookbook/examples/partners/aws/chatgpt_agents_sdk_aws_agentcore_cookbook/notebooks/chatgpt_agents_sdk_aws_agentcore_cookbook.md",
+    "title": "OpenAI Developers — ChatGPT Agents SDK / Agents Cookbook (AWS AgentCore example)",
+    "date": "n.d.",
+    "source": "web"
+  },
+  {
+    "n": 20,
+    "id": "babyagi-github",
+    "url": "https://github.com/yoheinakajima/babyagi/",
+    "title": "BabyAGI — GitHub (yoheinakajima)",
+    "date": "2023-04-03",
+    "source": "web"
+  },
+  {
+    "n": 21,
+    "id": "agent-detect-2025",
+    "url": "https://arxiv.org/abs/2507.03726",
+    "title": "Agent-Based Detection and Resolution of Incompleteness and Ambiguity in Interactions with Large Language Models",
+    "date": "2025-07-04",
+    "source": "arxiv"
+  },
+  {
+    "n": 22,
+    "id": "tool-internalize-2025",
+    "url": "https://arxiv.org/abs/2511.17840",
+    "title": "Internalizing Tools as Morphisms in Graded Transformers",
+    "date": "2025-11-21",
+    "source": "arxiv"
+  },
+  {
+    "n": 23,
+    "id": "adas-2024",
+    "url": "https://arxiv.org/abs/2408.08435",
+    "title": "Automated Design of Agentic Systems",
+    "date": "2024-08-15",
+    "source": "arxiv"
+  }
+]

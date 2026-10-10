@@ -1,0 +1,226 @@
+[
+  {
+    "n": 1,
+    "id": "1706.03741",
+    "url": "https://arxiv.org/abs/1706.03741",
+    "title": "Deep Reinforcement Learning from Human Preferences",
+    "date": "2017-06-12",
+    "source": "arxiv"
+  },
+  {
+    "n": 2,
+    "id": "2203.02155",
+    "url": "https://arxiv.org/abs/2203-02155",
+    "title": "Training language models to follow instructions with human feedback (InstructGPT)",
+    "date": "2022-03-04",
+    "source": "arxiv"
+  },
+  {
+    "n": 3,
+    "id": "1707.06347",
+    "url": "https://arxiv.org/abs/1707.06347",
+    "title": "Proximal Policy Optimization Algorithms",
+    "date": "2017-07-20",
+    "source": "arxiv"
+  },
+  {
+    "n": 4,
+    "id": "2305.18290",
+    "url": "https://arxiv.org/abs/2305.18290",
+    "title": "Direct Preference Optimization: Your Language Model is Secretly a Reward Model",
+    "date": "2023-05-29",
+    "source": "arxiv"
+  },
+  {
+    "n": 5,
+    "id": "2405.14734",
+    "url": "https://huggingface.co/papers/2405.14734",
+    "title": "SimPO: Simple Preference Optimization with a Reference-Free Reward",
+    "date": "2024-05-23",
+    "source": "hf-search"
+  },
+  {
+    "n": 6,
+    "id": "2410.16198",
+    "url": "https://huggingface.co/papers/2410.16198",
+    "title": "Improve Vision Language Model Chain-of-thought Reasoning",
+    "date": "2024-10-21",
+    "source": "hf-search"
+  },
+  {
+    "n": 7,
+    "id": "2403.04642v1",
+    "url": "https://arxiv.org/html/2403.04642v1",
+    "title": "Teaching Large Language Models to Reason with Reinforcement Learning",
+    "date": "2024-03-07",
+    "source": "web"
+  },
+  {
+    "n": 8,
+    "id": "OREO_acl_2025",
+    "url": "https://aclanthology.org/2025.findings-acl.464.pdf",
+    "title": "Offline Reinforcement Learning for LLM Multi-step Reasoning (OREO)",
+    "date": "2025",
+    "source": "web"
+  },
+  {
+    "n": 9,
+    "id": "exa-lsrl-2025",
+    "url": "https://exa.ai/library/publication/rxdbs06fkfx",
+    "title": "LSRL: Process-Supervised GRPO on Latent Recurrent States Improves Mathematical Reasoning",
+    "date": "2025-01-01",
+    "source": "web"
+  },
+  {
+    "n": 10,
+    "id": "verl_gsm8k_journal_2025",
+    "url": "https://journals.gmu.edu/jssr/article/view/5263",
+    "title": "Verifier-Guided Reinforcement Learning for GSM8K Math Reasoning",
+    "date": "2025-09-25",
+    "source": "web"
+  },
+  {
+    "n": 11,
+    "id": "2604.13602",
+    "url": "https://arxiv.org/abs/2604.13602",
+    "title": "Reward Hacking in the Era of Large Models: Mechanisms, Emergent Misalignment, Challenges",
+    "date": "2026-04-15",
+    "source": "arxiv"
+  },
+  {
+    "n": 12,
+    "id": "lilian-2024-reward-hacking",
+    "url": "https://lilianweng.github.io/posts/2024-11-28-reward-hacking/",
+    "title": "Reward Hacking in Reinforcement Learning",
+    "date": "2024-11-28",
+    "source": "web"
+  },
+  {
+    "n": 13,
+    "id": "ai-security-2026",
+    "url": "https://copilot-autogent.github.io/ai-security-blog/blog/reward-hacking-rlhf-safety/",
+    "title": "Reward Hacking in Production: When RLHF Optimization Inverts Safety Goals",
+    "date": "2026-07-03",
+    "source": "web"
+  },
+  {
+    "n": 14,
+    "id": "hf-2609.34344",
+    "url": "https://huggingface.co/papers/2609.34344",
+    "title": "Learning to Steer, Steering to See: Unveiling the Geometry of RLVR in Large Language Models via Trainable Vectors",
+    "date": "2026-09-28",
+    "source": "hf-daily"
+  },
+  {
+    "n": 15,
+    "id": "2610.07405",
+    "url": "https://arxiv.org/abs/2610.07405",
+    "title": "What pass@k Cannot Measure: Evaluating Diversity and Capability Retention after Post-Training",
+    "date": "2026-10-05",
+    "source": "arxiv"
+  },
+  {
+    "n": 16,
+    "id": "2609.06386",
+    "url": "https://arxiv.org/abs/2609.06386",
+    "title": "Are Verifier Errors Independent Within a GRPO Group? Evidence from Qwen2.5 Rollouts",
+    "date": "2026-09-06",
+    "source": "arxiv"
+  },
+  {
+    "n": 17,
+    "id": "huggingface/trl",
+    "url": "https://github.com/huggingface/trl",
+    "title": "huggingface/trl (GitHub)",
+    "date": "N/A",
+    "source": "web"
+  },
+  {
+    "n": 18,
+    "id": "hf.docs/trl",
+    "url": "https://huggingface.co/docs/trl/index",
+    "title": "TRL documentation (Hugging Face)",
+    "date": "N/A",
+    "source": "web"
+  },
+  {
+    "n": 19,
+    "id": "deepspeed/examples/DeepSpeed-Chat-RLHF",
+    "url": "https://github.com/microsoft/DeepSpeedExamples/blob/master/applications/DeepSpeed-Chat/training/step3_rlhf_finetuning/README.md",
+    "title": "DeepSpeed-Chat RLHF finetuning README",
+    "date": "N/A",
+    "source": "web"
+  },
+  {
+    "n": 20,
+    "id": "deepspeed/docs/huggingface",
+    "url": "https://huggingface.co/docs/accelerate/en/usage_guides/deepspeed",
+    "title": "DeepSpeed · Hugging Face (docs)",
+    "date": "N/A",
+    "source": "web"
+  },
+  {
+    "n": 21,
+    "id": "1805.00899",
+    "url": "https://arxiv.org/abs/1805.00899",
+    "title": "AI safety via debate",
+    "date": "2018-05-03",
+    "source": "arxiv"
+  },
+  {
+    "n": 22,
+    "id": "2307.04964",
+    "url": "https://huggingface.co/papers/2307.04964",
+    "title": "Secrets of RLHF in Large Language Models Part I: PPO",
+    "date": "2023-07-11",
+    "source": "hf-search"
+  },
+  {
+    "n": 23,
+    "id": "2505.17218",
+    "url": "https://arxiv.org/html/2505.17218",
+    "title": "Effective Reinforcement Learning for Reasoning in Language Models (DASH)",
+    "date": "2025-05",
+    "source": "web"
+  },
+  {
+    "n": 24,
+    "id": "2404.10719",
+    "url": "https://huggingface.co/papers/2404.10719",
+    "title": "Is DPO Superior to PPO for LLM Alignment? A Comprehensive Study",
+    "date": "2024-04-16",
+    "source": "hf-search"
+  },
+  {
+    "n": 25,
+    "id": "acl-2026-prolog-as-tool",
+    "url": "https://aclanthology.org/2026.findings-acl.1644.pdf",
+    "title": "Training Language Models to Use Prolog as a Tool",
+    "date": "2026",
+    "source": "web"
+  },
+  {
+    "n": 26,
+    "id": "2309.14525",
+    "url": "https://arxiv.org/abs/2309.14525",
+    "title": "Aligning Large Multimodal Models with Factually Augmented RLHF",
+    "date": "2023-09-25",
+    "source": "arxiv"
+  },
+  {
+    "n": 27,
+    "id": "hf-2610.11959",
+    "url": "https://huggingface.co/papers/2610.11959",
+    "title": "MiMo-V2.6: Scaling Reinforcement Learning Towards Self-Improvement",
+    "date": "2026-10-08",
+    "source": "hf-daily"
+  },
+  {
+    "n": 28,
+    "id": "hf-daily-2606.03335",
+    "url": "https://huggingface.co/papers/2606.03335",
+    "title": "A GPU-Parallel Framework for Heterogeneous Multi-Task Reinforcement Learning",
+    "date": "2026-10-06",
+    "source": "hf-daily"
+  }
+]

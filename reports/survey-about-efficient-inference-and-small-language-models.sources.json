@@ -1,0 +1,186 @@
+[
+  {
+    "n": 1,
+    "id": "huggingface-blog-autogptq-2023-08-23",
+    "url": "https://huggingface.co/blog/gptq-integration",
+    "title": "Making LLMs lighter with AutoGPTQ and transformers (Hugging Face blog)",
+    "date": "2023-08-23",
+    "source": "web"
+  },
+  {
+    "n": 2,
+    "id": "huggingface-blog-llm-compressor",
+    "url": "https://huggingface.co/blog/rishiraj/llm-compressor",
+    "title": "Understanding Post-Training Quantization with LLM Compressor (Hugging Face blog)",
+    "date": "",
+    "source": "web"
+  },
+  {
+    "n": 3,
+    "id": "huggingface-blog-quantization-2023",
+    "url": "https://huggingface.co/blog/merve/quantization",
+    "title": "Introduction to Quantization (Hugging Face blog)",
+    "date": "2023-08-25",
+    "source": "web"
+  },
+  {
+    "n": 4,
+    "id": "2305.14314",
+    "url": "https://huggingface.co/papers/2305.14314",
+    "title": "QLoRA: Efficient Finetuning of Quantized LLMs",
+    "date": "2023-05-23",
+    "source": "hf-search"
+  },
+  {
+    "n": 5,
+    "id": "2606.01412",
+    "url": "https://arxiv.org/abs/2606.01412",
+    "title": "GPTQ-intrinsic LoRA: A Near-optimal Algorithm for Low-precision Quantization with Low-rank Adaptation",
+    "date": "2026-06-01",
+    "source": "arxiv"
+  },
+  {
+    "n": 6,
+    "id": "2605.04738",
+    "url": "https://arxiv.org/abs/2605.04738",
+    "title": "OSAQ: Outlier Self-Absorption for Accurate Low-bit LLM Quantization",
+    "date": "2026-05-06",
+    "source": "arxiv"
+  },
+  {
+    "n": 7,
+    "id": "2610.04875",
+    "url": "https://huggingface.co/papers/2610.04875",
+    "title": "SpecFold: Folding Multi-Branch Redundancy for Faster Speculative Decoding in Diffusion Language Models",
+    "date": "2026-10-06",
+    "source": "hf-daily"
+  },
+  {
+    "n": 8,
+    "id": "2609.34866",
+    "url": "https://arxiv.org/abs/2609.34866",
+    "title": "From Attention Sensitivity to Layer Role: Revisiting Mixed-Precision Quantization of Transformers",
+    "date": "2026-09-28",
+    "source": "arxiv"
+  },
+  {
+    "n": 9,
+    "id": "2205.14135",
+    "url": "https://arxiv.org/abs/2205.14135",
+    "title": "FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness",
+    "date": "2022-06-23",
+    "source": "arxiv"
+  },
+  {
+    "n": 10,
+    "id": "1910.01108",
+    "url": "https://arxiv.org/abs/1910.01108",
+    "title": "DistilBERT, a distilled version of BERT: smaller, faster, cheaper and lighter",
+    "date": "2019-10-02",
+    "source": "arxiv"
+  },
+  {
+    "n": 11,
+    "id": "1909.11556",
+    "url": "https://arxiv.org/abs/1909.11556",
+    "title": "Reducing Transformer Depth on Demand with Structured Dropout (LayerDrop)",
+    "date": "2019-09-25",
+    "source": "arxiv"
+  },
+  {
+    "n": 12,
+    "id": "2106.09685",
+    "url": "https://arxiv.org/abs/2106.09685",
+    "title": "LoRA: Low-Rank Adaptation of Large Language Models",
+    "date": "2021-06-17",
+    "source": "arxiv"
+  },
+  {
+    "n": 13,
+    "id": "2610.09639",
+    "url": "https://huggingface.co/papers/2610.09639",
+    "title": "On-Policy Distillation Teaches New Skills but Not New Knowledge",
+    "date": "2026-10-07",
+    "source": "hf-daily"
+  },
+  {
+    "n": 14,
+    "id": "open-llm-leaderboard/about",
+    "url": "https://huggingface.co/docs/leaderboards/main/open_llm_leaderboard/about",
+    "title": "Open LLM Leaderboard - About",
+    "date": "",
+    "source": "web"
+  },
+  {
+    "n": 15,
+    "id": "EleutherAI/lm-evaluation-harness",
+    "url": "https://github.com/EleutherAI/lm-evaluation-harness",
+    "title": "EleutherAI / lm-evaluation-harness",
+    "date": "",
+    "source": "web"
+  },
+  {
+    "n": 16,
+    "id": "2402.14992",
+    "url": "https://huggingface.co/papers/2402.14992",
+    "title": "tinyBenchmarks: evaluating LLMs with fewer examples",
+    "date": "2024-02-22",
+    "source": "hf-search"
+  },
+  {
+    "n": 17,
+    "id": "vllm_docs",
+    "url": "https://docs.vllm.ai/en/stable/usage/",
+    "title": "vLLM documentation (usage, parallelism & backends)",
+    "date": "",
+    "source": "web"
+  },
+  {
+    "n": 18,
+    "id": "text-generation-inference",
+    "url": "https://huggingface.co/docs/text-generation-inference/en/index",
+    "title": "Text Generation Inference (TGI) — Hugging Face",
+    "date": "",
+    "source": "web"
+  },
+  {
+    "n": 19,
+    "id": "deepspeed_zero_tutorial",
+    "url": "https://github.com/deepspeedai/DeepSpeed/blob/ad026a1f/docs/_tutorials/zero.md",
+    "title": "DeepSpeed ZeRO docs (ZeRO and ZeRO-Infinity tutorial)",
+    "date": "",
+    "source": "web"
+  },
+  {
+    "n": 20,
+    "id": "pytorch_fsdp_tutorial",
+    "url": "https://pytorch.org/tutorials/intermediate/FSDP_tutorial.html",
+    "title": "PyTorch Fully Sharded Data Parallel (FSDP) tutorial",
+    "date": "",
+    "source": "web"
+  },
+  {
+    "n": 21,
+    "id": "nvidia_llm_cost_benchmarking",
+    "url": "https://developer.nvidia.com/blog/llm-inference-benchmarking-how-much-does-your-llm-inference-cost/",
+    "title": "How Much Does Your LLM Inference Cost? (NVIDIA blog, GenAI-Perf)",
+    "date": "2025-06-18",
+    "source": "web"
+  },
+  {
+    "n": 22,
+    "id": "digitalocean_llm_trilemma",
+    "url": "https://www.digitalocean.com/blog/llm-inference-tradeoffs",
+    "title": "The LLM Inference Trilemma: Throughput, Latency, Cost (practitioner guide)",
+    "date": "2026-04-22",
+    "source": "web"
+  },
+  {
+    "n": 23,
+    "id": "2206.04615",
+    "url": "https://arxiv.org/abs/2206.04615",
+    "title": "Beyond the Imitation Game: Quantifying and extrapolating the capabilities of language models (BIG-bench)",
+    "date": "2022-06-12",
+    "source": "arxiv"
+  }
+]
