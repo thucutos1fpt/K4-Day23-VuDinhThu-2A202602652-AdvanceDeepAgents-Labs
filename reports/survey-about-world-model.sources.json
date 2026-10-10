@@ -1,0 +1,138 @@
+[
+  {
+    "n": 1,
+    "id": "1803.10122",
+    "url": "https://arxiv.org/abs/1803.10122",
+    "title": "World Models",
+    "date": "2018-03-27",
+    "source": "arxiv"
+  },
+  {
+    "n": 2,
+    "id": "FKI-149-91",
+    "url": "https://people.idsia.ch/~juergen/FKI-149-91ocr.pdf",
+    "title": "Adaptive confidence and adaptive curiosity (A possibility for implementing curiosity and boredom in model-building neural controllers)",
+    "date": "1991",
+    "source": "web"
+  },
+  {
+    "n": 3,
+    "id": "1811.04551",
+    "url": "https://huggingface.co/papers/1811.04551",
+    "title": "Learning Latent Dynamics for Planning from Pixels (PlaNet)",
+    "date": "2019-06-04",
+    "source": "hf-search"
+  },
+  {
+    "n": 4,
+    "id": "1911.08265",
+    "url": "https://huggingface.co/papers/1911.08265",
+    "title": "MuZero",
+    "date": "2019-11-19",
+    "source": "hf-search"
+  },
+  {
+    "n": 5,
+    "id": "10.1126/science.aar6170",
+    "url": "https://www.science.org/doi/10.1126/science.aar6170",
+    "title": "Neural scene representation and rendering (Generative Query Network)",
+    "date": "2018-06-15",
+    "source": "web"
+  },
+  {
+    "n": 6,
+    "id": "2003.08934",
+    "url": "https://huggingface.co/papers/2003.08934",
+    "title": "NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis",
+    "date": "2020-03-19",
+    "source": "hf-search"
+  },
+  {
+    "n": 7,
+    "id": "2609.16074",
+    "url": "https://arxiv.org/abs/2609.16074",
+    "title": "World-Action Models for Robot Learning and Control: A Survey",
+    "date": "2026-09-13",
+    "source": "arxiv"
+  },
+  {
+    "n": 8,
+    "id": "mbrl-benchmark",
+    "url": "https://www.cs.toronto.edu/~tingwuwang/mbrl/mbrl.pdf",
+    "title": "Benchmarking Model-Based Reinforcement Learning",
+    "date": "",
+    "source": "web"
+  },
+  {
+    "n": 9,
+    "id": "nrn2787",
+    "url": "https://www.nature.com/articles/nrn2787",
+    "title": "The free-energy principle: a unified brain theory?",
+    "date": "2010",
+    "source": "web"
+  },
+  {
+    "n": 10,
+    "id": "2010.02193",
+    "url": "https://huggingface.co/papers/2010.02193",
+    "title": "DreamerV2 (Dreamer family)",
+    "date": "2022-02-12",
+    "source": "hf-search"
+  },
+  {
+    "n": 11,
+    "id": "2510.01457v2",
+    "url": "https://www.scholarfeed.org/paper/2510.01457v2",
+    "title": "Fixing That Free Lunch: When, Where, and Why Synthetic Data Fails in Model-Based Policy Optimization",
+    "date": "2025-10-01",
+    "source": "web"
+  },
+  {
+    "n": 12,
+    "id": "1806.01261",
+    "url": "https://huggingface.co/papers/1806.01261",
+    "title": "Relational inductive biases, deep learning, and graph networks",
+    "date": "2018-06-04",
+    "source": "hf-search"
+  },
+  {
+    "n": 13,
+    "id": "1302.4929",
+    "url": "https://huggingface.co/papers/1302.4929",
+    "title": "Counterfactuals and Policy Analysis in Structural Models",
+    "date": "2013-02-20",
+    "source": "hf-search"
+  },
+  {
+    "n": 14,
+    "id": "2106.01345",
+    "url": "https://huggingface.co/papers/2106.01345",
+    "title": "Decision Transformer",
+    "date": "2021-06-02",
+    "source": "hf-search"
+  },
+  {
+    "n": 15,
+    "id": "bt4lbldlrtc",
+    "url": "https://exa.ai/library/publication/bt4lbldlrtc",
+    "title": "Stealing That Free Lunch: Exposing the Limits of Dyna-Style Reinforcement Learning",
+    "date": "2024-12-18",
+    "source": "web"
+  },
+  {
+    "n": 16,
+    "id": "2609.25463",
+    "url": "https://arxiv.org/abs/2609.25463",
+    "title": "Rollout Efficiency in Reinforcement Learning for Reasoning Large Language Models: A Taxonomy and Future Directions",
+    "date": "2026-09-21",
+    "source": "arxiv"
+  },
+  {
+    "n": 17,
+    "id": "2610.11794",
+    "url": "https://huggingface.co/papers/2610.11794",
+    "title": "Memento 3: Model-Based Recursive Self-Improvement through Reflective Rulebooks",
+    "date": "2026-10-08",
+    "source": "hf-daily"
+  }
+]
